@@ -1,4 +1,4 @@
-# Strings
+# Algoritmos - Strings
 
 1. Escreva um programa que receba uma string e converta todas as letras minúsculas para maiúsculas. Informe ao usuário o resultado.
 
